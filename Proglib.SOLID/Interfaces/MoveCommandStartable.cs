@@ -1,4 +1,6 @@
-﻿namespace Proglib.SOLID
+﻿using Proglib.SOLID.Models;
+
+namespace Proglib.SOLID.Interfaces
 {
     public interface MoveCommandStartable
     {

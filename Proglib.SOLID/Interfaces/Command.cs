@@ -1,4 +1,4 @@
-﻿namespace Proglib.SOLID
+﻿namespace Proglib.SOLID.Interfaces
 {
     public interface Command
     {
